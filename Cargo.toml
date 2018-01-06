@@ -1,0 +1,7 @@
+[package]
+name = "rneural"
+version = "0.1.0"
+authors = ["Jälv <thomas.montaigu@laposte.net>"]
+
+[dependencies]
+rand = "0.4"
